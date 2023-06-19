@@ -5,7 +5,7 @@ This repository contains the necessary materials for learning Transform and Load
 
 ## Folder Structure and Usage
 
-- **1-Data_Transformation_Storage.ipynb**: the notebook provides examples of data transformation and storage using ETL techniques.
+- **1-Data_Transformation_Storage.ipynb**: the notebook provides examples of data transformation and storage using ETL techniques. Content Resources.
 - **2-Exercises.ipynb**: the notebook contains exercises for practicing ETL concepts.
 - **Images**: Contains images used in the notebooks.
 
