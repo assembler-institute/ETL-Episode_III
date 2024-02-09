@@ -22,10 +22,16 @@ To get started with the examples and exercises, follow these steps:
 4. Navigate to the repository folder.
 5. Open the notebook files (*.ipynb) to explore the code examples and exercises.
 
+
 ## Usage
 
 - The `1-Data_Transformation_Storage.ipynb` notebook provides examples of data transformation and storage using ETL techniques.
 - The `2-Exercises.ipynb` notebook contains exercises for practicing ETL concepts.
+
+
+## Solutions
+
+Solutions can be found in the 'solutions' branch.
 
 
 ## Contributors
